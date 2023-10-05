@@ -1,0 +1,8 @@
+name: CongelarComando
+version: '${project.version}'
+main: me.guachinio.congelarcomando.Main
+api-version: '1.16'
+commands:
+  congelar:
+    usage: /<command> <player>
+    permission: congelar.use
