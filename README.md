@@ -1,0 +1,1 @@
+A simple spigot plugin to freeze a Player.
